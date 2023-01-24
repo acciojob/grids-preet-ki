@@ -1,2 +1,32 @@
 
 /* Your CSS Code here. */
+.container{
+	background-color:black;
+	height:500px;
+}
+#row1{
+	background-color:green;
+	height:100px;
+	}
+#rows1{
+	background-color:pink;
+	height:100px;
+}
+.row justify-content-around{
+	display:flex;
+}
+#row2{
+	background-color:orangered;
+	height:100px;
+}
+#rows2{
+background-color:skyblue;
+	}
+#row3{
+	background-color:purple;
+	height:100px;
+}
+#rows3{
+  background-color:green;
+	
+}
